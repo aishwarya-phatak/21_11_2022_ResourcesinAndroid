@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="images">
+        <item>@drawable/ic_launcher_background</item>
+        <item>@drawable/ic_launcher_foreground</item>
+    </array>
+
+    <array name="colors">
+        <item>@color/black</item>
+        <item>@color/purple_700</item>
+        <item>@color/teal_200</item>
+        <item>@color/white</item>
+        <item>@color/purple_200</item>
+    </array>
+</resources>

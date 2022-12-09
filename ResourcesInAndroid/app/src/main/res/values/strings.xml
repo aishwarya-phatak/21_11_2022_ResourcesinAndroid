@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ResourcesInAndroid</string>
+    <string-array name="student_names">
+        <item>Krishna</item>
+        <item>Vaibhav</item>
+        <item>Raviraj</item>
+        <item>Saurabh</item>
+        <item>Suraj</item>
+        <item>Aniket</item>
+    </string-array>
+</resources>
